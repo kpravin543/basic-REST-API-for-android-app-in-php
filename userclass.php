@@ -1,4 +1,4 @@
-////////user class all define all the functions this class in order to organise your code/////////////
+////////user class to define all the functions, this class is important to organise your code/////////////
 
 class user {
    public function __construct(){
